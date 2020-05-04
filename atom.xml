@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Don&#39;t Cry</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.imagay.club/"/>
+  <updated>2020-05-03T07:50:04.810Z</updated>
+  <id>http://www.imagay.club/</id>
+  
+  <author>
+    <name>Magneto</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.imagay.club/2020/05/04/hello-world/"/>
+    <id>http://www.imagay.club/2020/05/04/hello-world/</id>
+    <published>2020-05-04T08:20:41.818Z</published>
+    <updated>2020-05-03T07:50:04.810Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>I&#39;m a gay</title>
+    <link href="http://www.imagay.club/2020/05/03/gay/"/>
+    <id>http://www.imagay.club/2020/05/03/gay/</id>
+    <published>2020-05-03T11:10:01.000Z</published>
+    <updated>2020-05-04T05:50:42.464Z</updated>
+    
+    <summary type="html">
+    
+      I&#39;m a gay
+    
+    </summary>
+    
+      <category term="生活" scheme="http://www.imagay.club/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="悦读" scheme="http://www.imagay.club/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
