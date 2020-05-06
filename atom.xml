@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.imagay.club/"/>
-  <updated>2020-05-03T07:50:04.810Z</updated>
+  <updated>2020-05-06T11:38:28.642Z</updated>
   <id>http://www.imagay.club/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.imagay.club/2020/05/04/hello-world/"/>
-    <id>http://www.imagay.club/2020/05/04/hello-world/</id>
-    <published>2020-05-04T08:20:41.818Z</published>
-    <updated>2020-05-03T07:50:04.810Z</updated>
+    <title>生活随机#1</title>
+    <link href="http://www.imagay.club/2020/05/06/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/"/>
+    <id>http://www.imagay.club/2020/05/06/生活随想/</id>
+    <published>2020-05-06T10:30:06.000Z</published>
+    <updated>2020-05-06T11:38:28.642Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,17 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;&lt;strong&gt;失而复得的喜悦所有人都经历过，失而复得你是开心的，但…复得后又多次失去自然也会对他失去兴趣…所以请你不要让我多次失去你又多次得到你了！&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;position: relative; width: 100%;
         
       
     
     </summary>
     
+      <category term="生活" scheme="http://www.imagay.club/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="碎片" scheme="http://www.imagay.club/tags/%E7%A2%8E%E7%89%87/"/>
     
   </entry>
   
@@ -43,7 +48,7 @@
     <link href="http://www.imagay.club/2020/05/03/gay/"/>
     <id>http://www.imagay.club/2020/05/03/gay/</id>
     <published>2020-05-03T11:10:01.000Z</published>
-    <updated>2020-05-04T05:50:42.464Z</updated>
+    <updated>2020-05-06T11:20:24.089Z</updated>
     
     <summary type="html">
     
